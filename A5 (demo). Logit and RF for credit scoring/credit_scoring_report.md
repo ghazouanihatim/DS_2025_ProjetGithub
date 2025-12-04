@@ -1,5 +1,6 @@
 # Modélisation du Risque de Crédit par Régression Logistique et Random Forest
 
+<img src="IMG1.jpg" style="height:264px;margin-right:232px"/>
 ## 1. Introduction
 
 ### 1.1 Contexte et Problématique
@@ -149,3 +150,5 @@ Au-delà des aspects purement techniques, cette étude soulève des questions im
 Dans certains contextes, une approche hybride pourrait être envisagée : utiliser un Random Forest pour les décisions automatiques sur les cas clairs, et réserver la régression logistique (plus explicable) pour les cas limites nécessitant une révision humaine. Cette stratégie permettrait de combiner les avantages des deux approches.
 
 En définitive, cette étude démontre que les techniques modernes d'apprentissage automatique offrent des outils puissants pour le credit scoring, mais que leur déploiement doit s'accompagner d'une réflexion approfondie sur les compromis entre performance, interprétabilité, et contraintes opérationnelles et réglementaires.
+
+<img src="IMG2.jpg" style="height:264px;margin-right:232px"/>
